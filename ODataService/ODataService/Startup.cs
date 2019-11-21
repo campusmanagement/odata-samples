@@ -7,9 +7,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OData.Edm;
-using Server.Models;
+using ODataService.Models;
 
-namespace Server
+namespace ODataService
 {
     public class Startup
     {

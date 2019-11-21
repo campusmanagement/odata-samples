@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Server.Models
+namespace ODataService.Models
 {
     public class DataContext : DbContext
     {
